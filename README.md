@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Aditya Paul 👋
 
-<!--
-**Grizzy100/Grizzy100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building scalable systems, not just web apps.
 
-Here are some ideas to get you started:
+Full-Stack Developer and B.Tech CSE student focused on designing production-grade applications and distributed architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building end-to-end platforms — from intuitive frontends to resilient backend systems — with a growing focus on DevOps and cloud infrastructure.
+
+---
+
+## 🚀 Currently Building
+
+**Anivartee** — transforming a monolithic platform into a microservice-based, production-ready system.
+
+The platform supports users and fact-checkers working toward combating misinformation and racism in India.  
+Architected with scalability, reliability, and real-world impact in mind.
+
+---
+
+## 🧠 Engineering Focus
+
+- Backend-heavy full-stack development  
+- Microservices & event-driven architecture  
+- Production-ready system design  
+- Clean, maintainable code  
+- Performance and scalability  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`TypeScript` `JavaScript` `Java`
+
+**Frontend**  
+`React` `Next.js` `Tailwind`
+
+**Backend**  
+`Node.js` `Express` `Prisma`  
+`PostgreSQL` `MongoDB`
+
+**Architecture**  
+`Microservices` `RabbitMQ` `Event-Driven Systems`
+
+**DevOps (Learning & Implementing)**  
+`Docker` `AWS` `CI/CD`
+
+---
+
+## 🎯 Career Direction
+
+Growing into a systems-oriented software engineer with strong expertise in backend architecture and distributed systems.
+
+> Turning complex problems into scalable software.
