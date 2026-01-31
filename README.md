@@ -43,7 +43,7 @@ Architected with scalability, reliability, and real-world impact in mind.
 `Microservices` `RabbitMQ` `Event-Driven Systems`
 
 **DevOps (Learning & Implementing)**  
-`Docker` `AWS` `CI/CD`
+`Docker` `AWS` 
 
 ---
 
