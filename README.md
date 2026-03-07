@@ -19,7 +19,7 @@ I build **end-to-end production-grade platforms** — from pixel-perfect fronten
 
 ```
 Frontend  →  Backend  →  Infra  →  Scale
-   ✅            ✅          🔨         🎯
+   ⛓️         🖥️         🔨        📈
 ```
 
 ---
