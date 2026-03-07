@@ -6,8 +6,8 @@
 *I don't just build web apps — I architect systems that scale.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-paul-2a7290352/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/paul_adi5)
+
 
 </div>
 
@@ -85,18 +85,6 @@ Frontend  →  Backend  →  Infra  →  Scale
 ✦  Clean code is a team sport — readable, maintainable, and well-documented
 ✦  Ship with observability — if you can't measure it, you can't improve it
 ```
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityapaul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f78166)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapaul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
 
 ---
 
