@@ -94,12 +94,6 @@ I'm actively looking for **SDE internships and full-time roles** in backend, ful
 
 If you're building something ambitious — or hiring someone who is — let's talk.
 
-<div align="center">
-
-**[Aditya Paul](https://www.linkedin.com/in/aditya-paul-2a7290352/)** ·  · **pauladitya10012@email.com**
-
-</div>
-
 ---
 
 <div align="center">
