@@ -8,9 +8,9 @@ I specialize in building end-to-end platforms — from intuitive frontends to re
 
 ---
 
-## 🚀 Currently Building
+## 🚀 Next in the queue
 
-**Anivartee** — transforming a monolithic platform into a microservice-based, production-ready system.
+**Anivartee App** — transforming a monolithic platform into a microservice-based, production-ready system.
 
 The platform supports users and fact-checkers working toward combating misinformation and racism in India.  
 Architected with scalability, reliability, and real-world impact in mind.
