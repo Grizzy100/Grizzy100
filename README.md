@@ -5,7 +5,7 @@
 
 *I don't just build web apps — I architect systems that scale.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-paul-2a7290352/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-paul-2a7290352/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
 
@@ -108,7 +108,7 @@ If you're building something ambitious — or hiring someone who is — let's ta
 
 <div align="center">
 
-**[linkedin.com/in/adityapaul](https://linkedin.com)** · **[adityapaul.dev](https://yourportfolio.dev)** · **aditya@email.com**
+**[Aditya Paul](https://www.linkedin.com/in/aditya-paul-2a7290352/)** ·  · **pauladitya10012@email.com**
 
 </div>
 
