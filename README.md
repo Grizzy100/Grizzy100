@@ -34,7 +34,7 @@ Frontend  →  Backend  →  Infra  →  Scale
 - ⚙️ **Microservice architecture** — Auth, Routing, Complaints, Notifications, Analytics
 - 📡 **Real-time updates** — Live status tracking from report to resolution
 
-### [Anivartee](https://github.com/adityapaul/anivartee) — *Refactoring to Microservices*
+### [Anivartee](https://github.com/Grizzy100/Anivartee) — *Refactored to Microservices*
 > Platform combating misinformation and racism in India — supporting citizens and fact-checkers.
 
 - 🔄 Migrating monolith → distributed microservices
