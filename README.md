@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Aditya Paul 👋
-### Full-Stack Developer · Systems Thinker · B.Tech CSE
+### Full-Stack Developer · 3rd year, B.Tech CSE
 
 *I don't just build web apps — I architect systems that scale.*
 
