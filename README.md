@@ -85,6 +85,11 @@ Frontend  →  Backend  →  Infra  →  Scale
 ✦  Ship with observability — if you can't measure it, you can't improve it
 ```
 
+## 🌐 Deployed Projects
+
+### Kisan-e-Mandi
+🔗 Live: https://kisan-e-mandi.vercel.app/
+
 ---
 
 ## 📫 Let's Connect
