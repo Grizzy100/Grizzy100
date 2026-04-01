@@ -84,7 +84,7 @@ Frontend  →  Backend  →  Infra  →  Scale
 ✦  Clean code is a team sport — readable, maintainable, and well-documented
 ✦  Ship with observability — if you can't measure it, you can't improve it
 ```
-
+---
 ## 🌐 Deployed Projects
 
 ### Kisan-e-Mandi
