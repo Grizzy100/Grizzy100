@@ -2,14 +2,52 @@
 
 # Hi, I'm Aditya Paul 👋
 ### Full-Stack Developer · 4th year, B.Tech CSE
-
 *I don't just build web apps — I architect systems that scale.*
-
 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/geraltgwent123)
 
-
 </div>
+
+---
+
+## 🌟 Featured Projects
+
+### [Anivartee](https://github.com/Grizzy100/Anivartee)
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Node.js` `Redis` `Docker` `Stripe`
+
+> An anti-misinformation platform combating online racism and fake news — users submit viral links for review, and fact-checkers debunk content to build a searchable library of verified evidence.
+
+- 🏗️ **4-service containerized microservices architecture** (User, Post, Points, Payment) with schema-per-service PostgreSQL isolation
+- 🔐 Redis-backed JWT rotation and Stripe subscription billing with automated webhook lifecycle handling
+- 🏆 Gamified moderation engine — 12-tier ranking system (6 user + 6 fact-checker tiers) with a 30-minute TTL claim system to prevent concurrent reviews
+- 📒 Ledger-based points architecture that penalizes inaccuracy over volume
+
+---
+
+### [Kisan-e-Mandi](https://github.com/Grizzy100/Kisan-e-Mandi)
+`React.js` `Node.js` `Express` `MongoDB` `Firebase` `Cloudinary` `JWT`
+
+🔗 **Live:** [kisan-e-mandi.vercel.app](https://kisan-e-mandi.vercel.app/)
+
+> A farmer-to-consumer agricultural marketplace with three role-based portals — Admin, Vendor, and Customer.
+
+- 🔑 RBAC enforced via JWT middleware and Firebase Google OAuth
+- 🖼️ Cloudinary + Multer for scalable media uploads, Recharts for real-time admin analytics
+- ⚡ Fixed a concurrent-like race condition using atomic MongoDB operators (`$addToSet`/`$pull`), eliminating server crashes
+- 🚀 Cut ticket submission latency from 3–5s to ~80ms via a fire-and-forget email dispatch utility with retry logic
+- 🎨 Optimized rendering with `useCallback`/`useMemo`, route-based code splitting, and Optimistic UI
+
+---
+
+### [UniBridge](https://github.com/Grizzy100/UniBridge)
+`Node.js` `TypeScript` `Next.js` `PostgreSQL` `Prisma` `RabbitMQ` `Docker` `LangChain` `ChromaDB`
+
+> A 7-service microservices ecosystem replacing fragmented university workflows — mailing, attendance, task management, and AI-powered student support.
+
+- 🏗️ Database-per-service isolation (NeonDB, PostgreSQL schemas) with async event-driven communication via RabbitMQ
+- 📧 Category-threaded mailing system with per-participant visibility, replacing legacy Outlook workflows
+- 🛡️ Anti-Proxy QR attendance system with 30-second rotating tokens, blocking attendance via `outpass.approved` RabbitMQ events
+- 🤖 RAG-powered AI chatbot (LangChain + ChromaDB + Gemini) for intent-classified, context-aware answers over campus docs
 
 ---
 
@@ -24,7 +62,7 @@ Frontend  →  Backend  →  Infra  →  Scale
 
 ---
 
-## 🚀 What I'm Building
+## 🚧 What I'm Building Next
 
 ### [Civic Sethu](https://github.com/adityapaul/civic-sethu) — *In Progress*
 > A microservice-based civic grievance platform connecting citizens to municipal corporations across India.
@@ -33,13 +71,6 @@ Frontend  →  Backend  →  Infra  →  Scale
 - 👥 **Role-based dashboards** — Citizen · Field Worker · District Head · State Admin
 - ⚙️ **Microservice architecture** — Auth, Routing, Complaints, Notifications, Analytics
 - 📡 **Real-time updates** — Live status tracking from report to resolution
-
-### [Anivartee](https://github.com/Grizzy100/Anivartee) — *Refactored to Microservices*
-> Platform combating misinformation and racism in India — supporting citizens and fact-checkers.
-
-- 🔄 Migrating monolith → distributed microservices
-- 🏗️ Redesigned for production reliability and horizontal scaling
-- 🎯 Built with real social impact in mind
 
 ---
 
@@ -84,22 +115,7 @@ Frontend  →  Backend  →  Infra  →  Scale
 ✦  Clean code is a team sport — readable, maintainable, and well-documented
 ✦  Ship with observability — if you can't measure it, you can't improve it
 ```
----
-## 🌐 Deployed Projects
-
-### Kisan-e-Mandi
-🔗 Live: https://kisan-e-mandi.vercel.app/
 
 ---
 
 ## 📫 Let's Connect
-
-I'm actively looking for **SDE internships and full-time roles** in backend, full-stack, or systems engineering.
-
-If you're building something ambitious — or hiring someone who is — let's talk.
-
----
-
-<div align="center">
-<sub>⚡ Turning complex problems into scalable software.</sub>
-</div>
