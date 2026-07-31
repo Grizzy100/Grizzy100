@@ -24,6 +24,18 @@
 
 ---
 
+### [UniBridge](https://github.com/Grizzy100/UniBridge)
+`Node.js` `TypeScript` `Next.js` `PostgreSQL` `Prisma` `RabbitMQ` `Docker` `LangChain` `ChromaDB`
+
+> A 7-service microservices ecosystem replacing fragmented university workflows — mailing, attendance, task management, and AI-powered student support.
+
+- 🏗️ Database-per-service isolation (NeonDB, PostgreSQL schemas) with async event-driven communication via RabbitMQ
+- 📧 Category-threaded mailing system with per-participant visibility, replacing legacy Outlook workflows
+- 🛡️ Anti-Proxy QR attendance system with 30-second rotating tokens, blocking attendance via `outpass.approved` RabbitMQ events
+- 🤖 RAG-powered AI chatbot (LangChain + ChromaDB + Gemini) for intent-classified, context-aware answers over campus docs
+
+---
+
 ### [Kisan-e-Mandi](https://github.com/Grizzy100/Kisan-e-Mandi)
 `React.js` `Node.js` `Express` `MongoDB` `Firebase` `Cloudinary` `JWT`
 
@@ -39,17 +51,6 @@
 
 ---
 
-### [UniBridge](https://github.com/Grizzy100/UniBridge)
-`Node.js` `TypeScript` `Next.js` `PostgreSQL` `Prisma` `RabbitMQ` `Docker` `LangChain` `ChromaDB`
-
-> A 7-service microservices ecosystem replacing fragmented university workflows — mailing, attendance, task management, and AI-powered student support.
-
-- 🏗️ Database-per-service isolation (NeonDB, PostgreSQL schemas) with async event-driven communication via RabbitMQ
-- 📧 Category-threaded mailing system with per-participant visibility, replacing legacy Outlook workflows
-- 🛡️ Anti-Proxy QR attendance system with 30-second rotating tokens, blocking attendance via `outpass.approved` RabbitMQ events
-- 🤖 RAG-powered AI chatbot (LangChain + ChromaDB + Gemini) for intent-classified, context-aware answers over campus docs
-
----
 
 ## 🧠 What I Actually Do
 
