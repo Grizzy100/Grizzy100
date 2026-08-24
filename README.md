@@ -25,7 +25,7 @@
 ---
 
 ### [UniBridge](https://github.com/Grizzy100/UniBridge)
-`Node.js` `TypeScript` `Next.js` `PostgreSQL` `Prisma` `RabbitMQ` `Docker` `LangChain` `ChromaDB`
+`Node.js` `TypeScript` `Next.js` `PostgreSQL` `Prisma` `RabbitMQ` `Docker` `ChromaDB`
 
 > A 7-service microservices ecosystem replacing fragmented university workflows — mailing, attendance, task management, and AI-powered student support.
 
