@@ -32,7 +32,7 @@
 - 🏗️ Database-per-service isolation (NeonDB, PostgreSQL schemas) with async event-driven communication via RabbitMQ
 - 📧 Category-threaded mailing system with per-participant visibility, replacing legacy Outlook workflows
 - 🛡️ Anti-Proxy QR attendance system with 30-second rotating tokens, blocking attendance via `outpass.approved` RabbitMQ events
-- 🤖 RAG-powered AI chatbot (LangChain + ChromaDB + Gemini) for intent-classified, context-aware answers over campus docs
+- 🤖 RAG-powered AI chatbot (ChromaDB + Gemini) for intent-classified, context-aware answers over campus docs
 
 ---
 
