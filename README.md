@@ -15,7 +15,7 @@
 ### [Anivartee](https://github.com/Grizzy100/Anivartee)
 `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Node.js` `Redis` `Docker` `Stripe`
 
-> An anti-misinformation platform combating online racism and fake news — users submit viral links for review, and fact-checkers debunk content to build a searchable library of verified evidence.
+> An anti-misinformation platform combating online racism against Indians and fake news — users submit viral links for review, and fact-checkers debunk content to build a searchable library of verified evidence.
 
 - 🏗️ **4-service containerized microservices architecture** (User, Post, Points, Payment) with schema-per-service PostgreSQL isolation
 - 🔐 Redis-backed JWT rotation and Stripe subscription billing with automated webhook lifecycle handling
